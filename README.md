@@ -36,5 +36,7 @@ spring.datasource.url=jdbc:mysql://localhost:3306/blog_db
 spring.datasource.username=root
 spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
-
+```
+### You can also find the project here 
+ - https://roadmap.sh/projects/personal-blog
 
